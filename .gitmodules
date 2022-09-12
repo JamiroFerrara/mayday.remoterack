@@ -1,0 +1,9 @@
+[submodule "mayday.remoterack.listener"]
+	path = mayday.remoterack.listener
+	url = https://github.com/JamiroFerrara/mayday.remoterack.listener
+[submodule "mayday.remoterack.sender"]
+	path = mayday.remoterack.sender
+	url = https://github.com/JamiroFerrara/mayday.remoterack.sender
+[submodule "mayday.remoterack.server"]
+	path = mayday.remoterack.server
+	url = https://github.com/JamiroFerrara/mayday.remoterack.server
