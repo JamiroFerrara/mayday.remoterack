@@ -6,3 +6,7 @@
  command client.
  
  Install a server on the linode and run the commander / listener.
+ 
+ ## Available commands
+  * 'shutdown' -> shutdown on all listeners
+  * 'reboot' -> reboots all listeners
